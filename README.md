@@ -23,5 +23,6 @@
     <br>
     <br>
     <p>Alexandre Galvarros[https://github.com/AlexandreGalvarros] - RGM: 45011656</p>
-    <p>Stênio do Nascimento Filho[https://github.com/StêniodoNascimento] - RGM:42672384 </p>
+    <p>Stênio do Nascimento Filho[https://github.com/StênioDNS] - RGM:42672384 </p>
+
 
